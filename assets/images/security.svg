@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Secure</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页备份" transform="translate(-799.000000, -2025.000000)" fill="#000000">
+            <g id="Secure" transform="translate(799.000000, 2025.000000)">
+                <g id="编组-5" transform="translate(15.000000, 20.000000)">
+                    <path d="M80,22.5 C82.7614237,22.5 85,24.7385763 85,27.5 L85,72.5 L82.5,72.5 L82.5,27.5 C82.5,26.1820478 81.4801528,25.1022936 80.1865779,25.0068572 L80,25 L65,25 L65,22.5 L80,22.5 Z M25,25 L10,25 C8.68204776,25 7.6022936,26.0198472 7.50685717,27.3134221 L7.5,27.5 L7.5,72.5 L5,72.5 L5,27.5 C5,24.7385763 7.23857625,22.5 10,22.5 L25,22.5 L25,25 Z" id="形状结合" fill-rule="nonzero"></path>
+                    <path d="M35.1773834,72.5 C35.874641,74.0232079 37.3960409,75 39.0712514,75 L50.9313615,75 C52.603493,75 54.1510802,74.1410819 55.0380523,72.7387071 L55.1796722,72.5 L90,72.5 L90,75 C90,79.1421356 86.6421356,82.5 82.5,82.5 L7.5,82.5 C3.35786438,82.5 0,79.1421356 0,75 L0,72.5 L35.1773834,72.5 Z M56.45625,75 L56.3978421,75.0683155 C55.0932912,76.5155635 53.2542953,77.3981234 51.2809181,77.4917188 L50.9313615,77.5 L39.0712514,77.5 C37.1162889,77.5 35.2935867,76.6600651 34.0278698,75.2528835 L33.81125,75 L2.5,75 C2.5,77.6777442 4.60496059,79.8638486 7.25044957,79.9938809 L7.5,80 L82.5,80 C85.1777442,80 87.3638486,77.8950394 87.4938809,75.2495504 L87.5,75 L56.45625,75 Z" id="矩形" fill-rule="nonzero"></path>
+                    <path d="M17.5,30 L13.75,30 L13.75,65 L76.25,65 L76.25,30 L72.5,30 L72.5,27.5 L78.75,27.5 L78.75,67.5 L11.25,67.5 L11.25,27.5 L17.5,27.5 L17.5,30 Z" id="形状结合" fill-rule="nonzero"></path>
+                    <path d="M45.0445938,0 L65,7.5 L65,28.4841243 C65,34.2169209 62.5399382,39.6740986 58.2442654,43.4704325 L45.1981926,55 L31.903569,43.48135 C27.5190116,39.6825073 25,34.1670197 25,28.3656794 L25,7.5 L45.0445938,0 Z M45.0425,2.67 L27.5,9.23375 L27.5,28.3656794 C27.5,33.2832217 29.5685292,37.9660314 33.1857519,41.275905 L33.5406229,41.5918911 L45.18125,51.6775 L56.5887323,41.597144 C60.2299862,38.3791578 62.3638969,33.7973416 62.4937104,28.9536493 L62.5,28.4841243 L62.5,9.23125 L45.0425,2.67 Z" id="矩形" fill-rule="nonzero"></path>
+                    <path d="M45,20 C47.7614237,20 50,22.2385763 50,25 C50,27.7614237 47.7614237,30 45,30 C42.2385763,30 40,27.7614237 40,25 C40,22.2385763 42.2385763,20 45,20 Z M45,22.5 C43.6192881,22.5 42.5,23.6192881 42.5,25 C42.5,26.3807119 43.6192881,27.5 45,27.5 C46.3807119,27.5 47.5,26.3807119 47.5,25 C47.5,23.6192881 46.3807119,22.5 45,22.5 Z" id="椭圆形" fill-rule="nonzero"></path>
+                    <g id="编组" transform="translate(45.000000, 25.000000) rotate(45.000000) translate(-45.000000, -25.000000) translate(35.000000, 23.750000)">
+                        <rect id="矩形" x="0" y="0" width="6.25" height="2.5"></rect>
+                        <rect id="矩形备份" x="13.75" y="0" width="6.25" height="2.5"></rect>
+                    </g>
+                    <g id="编组" transform="translate(45.000000, 25.000000) rotate(-45.000000) translate(-45.000000, -25.000000) translate(35.000000, 23.750000)">
+                        <rect id="矩形" x="0" y="0" width="6.25" height="2.5"></rect>
+                        <rect id="矩形备份" x="13.75" y="0" width="6.25" height="2.5"></rect>
+                    </g>
+                    <path d="M45,13.75 C51.2132034,13.75 56.25,18.7867966 56.25,25 C56.25,31.2132034 51.2132034,36.25 45,36.25 C38.7867966,36.25 33.75,31.2132034 33.75,25 C33.75,18.7867966 38.7867966,13.75 45,13.75 Z M45,16.25 C40.1675084,16.25 36.25,20.1675084 36.25,25 C36.25,29.8324916 40.1675084,33.75 45,33.75 C49.8324916,33.75 53.75,29.8324916 53.75,25 C53.75,20.1675084 49.8324916,16.25 45,16.25 Z" id="椭圆形" fill-rule="nonzero"></path>
+                    <rect id="矩形" x="67.5" y="17.5" width="2.5" height="2.5"></rect>
+                    <rect id="矩形" x="72.5" y="17.5" width="2.5" height="2.5"></rect>
+                    <rect id="矩形" x="77.5" y="17.5" width="2.5" height="2.5"></rect>
+                    <rect id="矩形" x="10" y="17.5" width="2.5" height="2.5"></rect>
+                    <rect id="矩形" x="15" y="17.5" width="2.5" height="2.5"></rect>
+                    <rect id="矩形" x="20" y="17.5" width="2.5" height="2.5"></rect>
+                    <rect id="矩形" x="20" y="27.5" width="2.5" height="2.5"></rect>
+                    <rect id="矩形" x="67.5" y="27.5" width="2.5" height="2.5"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+<!-- Code injected by live-server -->
+<script>
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script>
+</svg>
