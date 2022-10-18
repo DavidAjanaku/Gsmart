@@ -307,6 +307,7 @@ table td:nth-child(4) {
     .aboutUs{
         flex-wrap: wrap;
         text-align: center;
+        justify-content: center;
     }
 
     .intro-1 h1{
@@ -316,8 +317,14 @@ table td:nth-child(4) {
     .desktop{
         display: block;
     }
+
+
 }
 
+.body{
+    width: 70%;
+    margin: auto;
+}
 
 
 
@@ -492,4 +499,5 @@ tr{
 
 .box1{
     text-align: center;
+    width: 50%;
 }
